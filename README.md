@@ -1,3 +1,8 @@
-## Accounts - React on Rails
+## To Do List - React on Rails
 
-Support files for [React.js - A guide for Rails developers](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers), a tutorial posted on [Airpair](https://www.airpair.com/) which explains how to integrate [React.js](https://facebook.github.io/react/) into a [Ruby on Rails](http://rubyonrails.org/) application.
+# First Step
+$ rake db:create db:migrate
+$ rails s
+
+# Second Step
+Once `rails s` is running, open your browser at http://localhost:3000/to_do_items to see this app in action.
