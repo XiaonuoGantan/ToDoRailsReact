@@ -16,7 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 gem 'bootstrap-sass', '~> 3.3.4'
 
-gem 'react-rails', '~> 1.0'
+gem 'react-rails', '~> 1.4.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

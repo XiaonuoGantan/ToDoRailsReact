@@ -18,8 +18,8 @@
   edit: (e) ->
     e.preventDefault()
     data =
-      entry: React.findDOMNode(@refs.entry).value
-      due_at: React.findDOMNode(@refs.due_at).value
+      entry: @refs.entry.value
+      due_at: @refs.due_at.value
     $.ajax
       method: 'PUT'
       url: "/to_do_items/#{ @props.item.id }"
