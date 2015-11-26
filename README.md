@@ -9,4 +9,8 @@
 ```
 
 # Second Step
-Once `rails s` is running, open your browser at http://localhost:3000/to_do_items to see this app in action.
+Once `rails s` is running, open your browser at
+
+  http://127.0.0.1:3000/to_do_items
+
+to see this app in action.
