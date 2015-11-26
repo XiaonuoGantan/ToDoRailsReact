@@ -3,6 +3,7 @@
 # First Step
 ```
   $ cd ToDoRailsReact
+  $ bundle install
   $ rake db:create db:migrate
   $ rails s
 ```
