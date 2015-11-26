@@ -1,5 +1,7 @@
 ## To Do List - React on Rails
 
+Please make sure you have installed `RubyOnRails 4` before you continue.
+
 # First Step
 ```
   $ cd ToDoRailsReact
